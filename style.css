@@ -30,7 +30,10 @@ header, footer {                  /* geldt voor header en footer */
   margin: 10px 0px;
 }
 
-main {                       
+main {  
+  margin: 0 auto;
+  width: 700px;
+  position: relative;
   text-align: justify;            /* tekst uitvullen */}
 
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
