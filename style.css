@@ -157,3 +157,13 @@ h2 {
   margin-bottom: 170px;
   font-size: 20px;
 }
+
+#higherbrothers {
+   margin-top:  50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 75%;
+    
+}
