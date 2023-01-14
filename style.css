@@ -134,3 +134,12 @@ h2 {
   width: 20%;
   height: 15%;
 }
+
+.rising {
+  margin-top:  50px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100%;
+  width: 55%;
+}
