@@ -144,5 +144,16 @@ h2 {
   width: 55%;
 }
 
+.china {
+  float: right;
+  margin-right: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 50%;
+}
 
-
+.tekstArtiesten {
+  margin-top: 150px;
+  margin-bottom: 170px;
+  font-size: 20px;
+}

@@ -2,9 +2,9 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+## *88rising*
 
-*zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
+*website met artiesten van 88rising.*
 
 ## Planning
 Werk de planning af van boven naar beneden<br>
@@ -16,25 +16,25 @@ Werk de planning af van boven naar beneden<br>
 Geef aan met [x] welke onderdelen af zijn
 
 ### Stap 1: Start 
-- [ ] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
-- [ ] Je hebt een account aangemaakt op www.github.com.
-- [ ] Je hebt de voorbeeldwebsite van de docent gekopieerd naar je eigen github account. 
-- [ ] Je hebt het onderwerp in de kop op van je homepage gezet.
+- [x] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
+- [x] Je hebt een account aangemaakt op www.github.com.
+- [x] Je hebt de voorbeeldwebsite van de docent gekopieerd naar je eigen github account. 
+- [x] Je hebt het onderwerp in de kop op van je homepage gezet.
 
 Aan het einde van stap 1 heb je de voorbeeldwebsite van je docent waarin je zelf de kop hebt aangepast.
 
 ### Stap 2: Menu en bestandsstructuur
-- [ ] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
-- [ ] Je past het menu in index.html aan, zodat het de keuzes biedt voor jouw subpagina's
-- [ ] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
-- [ ] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
+- [x] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
+- [x] Je past het menu in index.html aan, zodat het de keuzes biedt voor jouw subpagina's
+- [x] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
+- [x] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 
 Aan het einde van stap 2 heb je een werkend menu met minimaal vier lege subpagina's.
 
 ### Stap 3: Indeling en opmaak hoofdpagina
 - [ ] Je hebt de indeling (lay-out in het Engels, dat is de plek waar elk onderdeel van je pagina op het scherm komt) van je hoofdpagina gekozen.
 - [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-- [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
+- [x] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
 - [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
 - [ ] Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
 
@@ -70,7 +70,7 @@ Aan het einde van stap 8 heb je een perfecte website met één of enkele opvalle
 
 ### Stap 9: Uitbreidingen (niet verplicht)
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
-- [ ] ...
+- [x] dropdown
 
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
