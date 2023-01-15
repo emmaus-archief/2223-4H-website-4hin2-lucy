@@ -51,6 +51,7 @@ article {
 header {
     color: rgb(0, 0, 0);
     text-align: center;
+    font-family: fantasy;
 }
 
 
@@ -96,6 +97,7 @@ nav li a {
     text-align: center;
     padding: 14px 15px;
     text-decoration: none;
+    font-family: fantasy;
 }
 
 nav li a:hover {
@@ -154,16 +156,36 @@ h2 {
 
 .tekstArtiesten {
   margin-top: 150px;
-  margin-bottom: 170px;
+  margin-bottom: 110px;
   font-size: 20px;
 }
 
-#higherbrothers {
+.photoMiddle {
    margin-top:  50px;
     display: flex;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
     width: 75%;
-    
+}
+
+.textArtist {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 10%;
+  
+}
+
+strong{
+  text-decoration: underline;
+}
+
+iframe {
+  width: 90%;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 50%;
+  display: block;
 }
